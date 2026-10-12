@@ -43,7 +43,7 @@
 这意味着两个引用虽然类型不同，但执行的方法都是被覆写过的`introduce`方法。
 
 不过当我试图调用这个`Student`类的对象的`research`方法时，虽然它的本质是`GraduateStudent`，但依然出现了报错：
-![alt text](image.png)
+![pasted-image.png · 377](https://img.cdn1.vip/i/6accd400126b9_1791808512.webp)
 (标红处便是出错的点)
 
 思考题：
